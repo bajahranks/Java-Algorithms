@@ -1,3 +1,5 @@
+/* Created by Ravi Lamontagne */
+
 import javax.swing.*;
 
 public class Acceleration {
