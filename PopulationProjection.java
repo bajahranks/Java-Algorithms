@@ -10,6 +10,9 @@
 * the fractional part, one of the values involved in the division must be a number with a
 * decimal point. For example, 5.0 / 4 is 1.25 and 10 / 4.0 is 2.5.
 *
+* Updated
+* Prompt the user to enter the number of years and displays the population after the number of years.
+* 
 * @author Ravi Lamontagne
 */
 
