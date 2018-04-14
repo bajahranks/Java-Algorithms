@@ -7,6 +7,7 @@
 *
 * @author Ravi Lamontagne
 */
+
 public class DisplayJavaPattern {
 
     public static void main(String[] args) {
